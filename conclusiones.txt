@@ -1,0 +1,5 @@
+# Conclusiones sobre las Pruebas de PetStore
+
+- Las pruebas se ejecutaron con éxito y todos los escenarios fueron verificados.
+- Se confirmó que la API responde correctamente a las solicitudes POST, GET y PUT.
+- El manejo de errores y las respuestas son adecuadas.
